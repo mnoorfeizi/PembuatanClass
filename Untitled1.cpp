@@ -48,6 +48,14 @@ public:
     };
     };
     
+    int main()
+
+    { 
+	Jenissemut SemutA ("Semut  Ocheteellus", "Semut Solenopsis spp , Tapinoma Sessile Semut",   
+	"Camponotus Pennsylvanicus","Berkoloni", 3, 15);
+	
+	 Jenissemut SemutB ("Semut Bersayp", "Semut Trotoar, Tetramorium Caespitum", 
+	"Camponotus Monomorium Pharaonis","Berkoloni", 2, 10);
     
 
 
